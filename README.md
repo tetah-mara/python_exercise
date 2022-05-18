@@ -6,3 +6,6 @@
 # OOP principles, modules have been developed.
 
 # Text and image data manipulations have been developed without using the library, except for the built-in python functions.
+# Project - 1: Board Game
+# Project - 2: Image Transformation
+# Project - 3: Euroleague Simulation
